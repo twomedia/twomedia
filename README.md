@@ -7,4 +7,4 @@
 ## What I've been up to 🚀
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=twomedia&theme=tokyonight" alt="mystreak" align="centre"/>
 
-![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=twomedia&show_icons=true&theme=tokyonight)
+![Thomas's github stats](https://github-readme-stats.vercel.app/api?username=twomedia&show_icons=true&theme=tokyonight&count_private=true)
